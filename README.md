@@ -50,4 +50,5 @@ END
 - toupper() for case-insensitive input
 
 ## Author
+K Vaishali
 MSc Bioinformatics
